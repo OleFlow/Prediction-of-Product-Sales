@@ -5,7 +5,7 @@
 
 **Project Description:** This project aims to predict the sales of products in a retail store based on various features such as item type, item weight, outlet size, and more. Accurate sales predictions can help the store optimize inventory management and marketing strategies.
 
-**Data Source:** The dataset used for this project contains historical sales data for various products in the retail store.
+#Data Source: The dataset used for this project contains historical sales data for various products in the retail store.
 
 Relevant Insights from the Data
 Insight 1: Item Type Distribution
