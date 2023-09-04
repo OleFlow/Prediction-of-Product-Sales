@@ -1,6 +1,6 @@
 # Prediction-of-Product-Sales
 
-##Project Overview
+##  Project Overview
 **Project Title:** Sales Prediction for a Retail Store
 
 **Project Description:** This project aims to predict the sales of products in a retail store based on various features such as item type, item weight, outlet size, and more. Accurate sales predictions can help the store optimize inventory management and marketing strategies.
@@ -14,11 +14,16 @@ Insight 1: Item Type Distribution
 Item Type Distribution
 
 Insight: The bar chart above shows the distribution of products across different item types. "Fruits and Vegetables" and "Snack Foods" are the most common item types, followed by "Household" and "Frozen Foods."
+![Screenshot 2023-09-04 at 13 13 29](https://github.com/OleFlow/Prediction-of-Product-Sales/assets/106384255/df5cef10-0a3f-4c65-958b-9d84faaeb9e5)
 
 Insight 2: Item Visibility vs. Sales
 Item Visibility vs. Sales
 
 Insight: The scatter plot illustrates the relationship between item visibility and sales. There appears to be a weak negative correlation, suggesting that items with higher visibility tend to have lower sales.
+
+#  Data Dictionary
+![Screenshot 2023-09-04 at 13 10 31](https://github.com/OleFlow/Prediction-of-Product-Sales/assets/106384255/5c1994f3-6c3f-447d-b447-f019705a26f0)
+
 
 #  Summary of the Model and Evaluation Metrics
 ##Model Used: Random Forest Regression
